@@ -1,0 +1,15 @@
+Dear Customer, your account has been suspended. Click here immediately to restore access: http://secure-login.example.com/restore
+URGENT: Your PayPal account is limited. Verify your identity now at http://paypal-verify.example.com or risk permanent closure.
+Congratulations! You have won $5,000. Claim your prize now at http://prize-winner.example.com. Offer expires in 24 hours!
+Your bank account shows suspicious activity. Login immediately at http://bank-secure.example.com to protect your funds.
+IT Security: Your password expires today. Reset it now at http://company-reset.example.com to avoid losing access.
+Dear User, we detected an unauthorized login to your account from Russia. Verify at http://account-protect.example.com now.
+Your Netflix subscription has been suspended due to a billing issue. Update your payment at http://netflix-update.example.com.
+FINAL WARNING: Your email account will be deleted in 24 hours. Click http://email-restore.example.com to prevent deletion.
+Your Amazon order could not be delivered. Confirm your address at http://amazon-delivery.example.com immediately.
+HR Department: Action required — update your employee details at http://hr-portal.example.com before end of day today.
+Exclusive job offer for you! Earn $5,000/week from home. Apply now at http://jobs-offer.example.com — limited spots!
+Dear account holder, your credit card has been charged $499. If this was not you, dispute at http://dispute-charge.example.com.
+Your Microsoft account was accessed from an unknown device. Verify immediately at http://ms-secure.example.com.
+DHL Notification: Your parcel is on hold. Pay customs fee of $3.99 at http://dhl-customs.example.com to release it.
+ALERT: Suspicious login detected on your Google account. Secure it now at http://google-protect.example.com.
